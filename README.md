@@ -1,7 +1,7 @@
 # Reactive Application implemented by me
 
 Personally, I am very impressed with the ideas behind Reactive Manifesto. (https://www.reactivemanifesto.org/)
-If you are as excited as I am and do not know where to start i strongly recommending the book by Rivu
+If you are as excited as I am but do not know where to start I strongly recommend Reactive Programming in Kotlin by Rivu Chakraborty.
 
 More goals will be added.
 
